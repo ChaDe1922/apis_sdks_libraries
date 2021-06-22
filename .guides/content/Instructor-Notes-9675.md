@@ -6,6 +6,9 @@ Instructors can create slides, examples, or other visual aids to help bring the 
 ## Learning Objectives
 Students Will Be Able To...
 1. Explain how libraries, SDKs, APIs, and frameworks are different, yet related
+1. Describe how an API works using the correct terminology
+1. Implement authentication for an API in python
+1. Implement a POST request for an API in python
 
 ## Outline of what to cover and suggested interactions
 **1.0 What are Libraries, SDKS, Frameworks and APIs?**
