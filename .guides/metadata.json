@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "id": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "title": "Instructor Notes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Instructor-Notes-9675.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "979e4172-e40d-957e-76e3-26540b966724",
+   "title": "Pick an API",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Pick-an-API-979e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4fba0a97-162d-980a-426e-f109fcd7e4b8",
+   "title": "Get a POST request working",
+   "files": [],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Get-a-POST-request-working-4fba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01ee28e5-d30a-7738-bcbf-dee79f93c087",
+   "title": "Github",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Github-01ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,29 @@
+{
+ "name": "Basic Data Visualization",
+ "children": [
+  {
+   "title": "Instructor Notes",
+   "id": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "pageId": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "type": "page"
+  },
+  {
+   "title": "Pick an API",
+   "id": "979e4172-e40d-957e-76e3-26540b966724",
+   "pageId": "979e4172-e40d-957e-76e3-26540b966724",
+   "type": "page"
+  },
+  {
+   "id": "0c8314cf-0172-5ea8-0231-0c78da2a504c",
+   "title": "Get a POST request working",
+   "pageId": "4fba0a97-162d-980a-426e-f109fcd7e4b8",
+   "type": "page"
+  },
+  {
+   "id": "5f94e95e-2779-d303-b1bd-03aeaf148536",
+   "title": "Github",
+   "pageId": "01ee28e5-d30a-7738-bcbf-dee79f93c087",
+   "type": "page"
+  }
+ ]
+}
