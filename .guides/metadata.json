@@ -20,9 +20,38 @@
    "learningObjectives": ""
   },
   {
+   "id": "2b418a0b-6cd3-511d-baa1-265fef2f81cc",
+   "title": "Sentiment Analysis API",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sentiment.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sentiment-Analysis-API-2b41.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
    "id": "979e4172-e40d-957e-76e3-26540b966724",
    "title": "Pick an API",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",

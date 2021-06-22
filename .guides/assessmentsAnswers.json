@@ -1,0 +1,15 @@
+[
+ {
+  "taskId": "code-output-compare-3837208471",
+  "points": 20,
+  "results": [
+   {
+    "guidance": null,
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter text to analyze: {'probability': {'neg': 0.3013501976169055, 'neutral': 0.27119050546800266, 'pos': 0.6986498023830945}, 'label': 'pos'}\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter text to analyze: {'probability': {'neg': 0.21787037572939072, 'neutral': 0.3379168294051362, 'pos': 0.7821296242706093}, 'label': 'pos'}\\n\"}]}",
+    "timestamp": "2021-06-22T23:42:22.435Z",
+    "state": "pass"
+   }
+  ]
+ }
+]

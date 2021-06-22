@@ -1,0 +1,54 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-3837208471",
+  "source": {
+   "name": "sentiment",
+   "showName": false,
+   "instructions": "Check your work!",
+   "command": "python3 sentiment.py",
+   "preExecuteCommand": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": true,
+    "timeout": 30
+   },
+   "showExpectedAnswer": true,
+   "arePartialPointsAllowed": false,
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "great\n",
+     "output": "{'probability': {'neg': 0.3013501976169055, 'neutral': 0.27119050546800266, 'pos': 0.6986498023830945}, 'label': 'pos'}\n",
+     "showFeedback": false,
+     "feedback": ""
+    },
+    {
+     "arguments": "",
+     "input": "tacos are amazing!\n",
+     "output": "{'probability': {'neg': 0.21787037572939072, 'neutral': 0.3379168294051362, 'pos': 0.7821296242706093}, 'label': 'pos'}\n",
+     "showFeedback": false,
+     "feedback": ""
+    }
+   ],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Standard Code Test"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
