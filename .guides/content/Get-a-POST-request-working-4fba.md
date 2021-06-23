@@ -1,6 +1,6 @@
 ##
 
-Note: You can use Jupyter Notebooks or a normal `.py` file - whichever you prefer. If you use a `.py` file, you can run it by typing `python3 filename.py` into the terminal and pressing Enter/Return (where `filename` is the name of your file).
+Use a normal `.py` file - similar to the last page. You can run it by typing `python3 filename.py` into the terminal and pressing Enter/Return (where `filename` is the name of your file).
 
 In the next lesson, you'll learn how to parse the JSON that gets returned from a GET request. In the mean time:
 
