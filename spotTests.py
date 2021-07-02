@@ -28,5 +28,21 @@ access_token = auth_response_data['access_token']
 
 #print the response & status code of my POST authentication request
 print(auth_response_data)
-print("Request Status Code: " + str(auth_response.status_code))
+print("Auth Request Status Code: " + str(auth_response.status_code))
 
+#_____________________________________________________________________#
+##ADD A GET REQUEST
+#Create authorization headers
+headers = {
+    'Authorization':'Bearer {token}'.format(token = access_token)
+}
+
+#variables
+BASE_URL = 'https://api.spotify.com/v1/'
+playlist_id = '37i9dQZF1DX9oh43oAzkyx'
+
+response = requests.get(BASE_URL + 'playlists/' + playlist_id + '/tracks',  headers=headers, params={'include_groups':'album', 'limit':50})
+playlistData = response.json()
+
+print("GET Request Status Code: " + str(response.status_code))
+print(playlistData)
