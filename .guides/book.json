@@ -30,6 +30,18 @@
    "title": "Github",
    "pageId": "01ee28e5-d30a-7738-bcbf-dee79f93c087",
    "type": "page"
+  },
+  {
+   "id": "190c956f-ee70-85a3-5eac-b3440e3f815e",
+   "title": "Assessments",
+   "pageId": "d4c9cd3f-2bda-b1cd-cafd-55e8c5375dab",
+   "type": "page"
+  },
+  {
+   "id": "6a40fd34-13cb-96d6-4c71-9b8814fc99ee",
+   "title": "Assessment 2",
+   "pageId": "4ac20904-15d1-ee5f-8635-1023dd865c01",
+   "type": "page"
   }
  ]
 }

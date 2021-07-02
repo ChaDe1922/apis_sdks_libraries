@@ -50,5 +50,249 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1749571456",
+  "source": {
+   "name": "Explain how libraries, SDKs, APIs, and frameworks are different, yet related",
+   "showName": false,
+   "instructions": "Match the term with the correct definition. Click the \"Check It!\" button to submit your response.",
+   "showValues": true,
+   "text": "1) A(n) <<<library>>> is a narrowly-scoped collection of pre-written, reusable code.\n\n2) A(n) <<<API>>> is a collection of functions and procedures for accessing and sending data between applications.\n\n3) A(n) <<<Framework>>> is a platform that provides a foundation for developing software applications.\n\n4) A(n) <<<SDK>>> is a set of software tools used to build apps for a specific platform.",
+   "distractors": "IDE\nGUI",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "library",
+     "API",
+     "Framework",
+     "SDK"
+    ],
+    "text": [
+     "1) A(n) ",
+     0,
+     " is a narrowly-scoped collection of pre-written, reusable code.\n\n2) A(n) ",
+     0,
+     " is a collection of functions and procedures for accessing and sending data between applications.\n\n3) A(n) ",
+     0,
+     " is a platform that provides a foundation for developing software applications.\n\n4) A(n) ",
+     0,
+     " is a set of software tools used to build apps for a specific platform."
+    ],
+    "regexPositions": []
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2721194065",
+  "source": {
+   "name": "Explain how libraries, SDKs, APIs, and frameworks are different, yet related_2",
+   "showName": false,
+   "instructions": "A Software Development Kit can be described as a collection of:",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "0dca9271-f414-f3a0-b782-43c2f404652c",
+     "correct": true,
+     "answer": "libraries"
+    },
+    {
+     "_id": "e65b7abd-dd3a-9848-77d2-fb4aa203314f",
+     "correct": false,
+     "answer": "protocols"
+    },
+    {
+     "_id": "67e97532-b39c-369e-bd09-9a6fca8c60ea",
+     "correct": false,
+     "answer": "applications"
+    },
+    {
+     "_id": "0253ee7c-4f2c-6c87-bbf2-9d9dabd418bd",
+     "correct": false,
+     "answer": "frameworks"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1413156821",
+  "source": {
+   "name": "Explain how libraries, SDKs, APIs, and frameworks are different, yet related_3",
+   "showName": false,
+   "instructions": "Fill in the blanks to complete the sentence. Click the \"Check It!\" button to submit your response.",
+   "showValues": true,
+   "text": "<<<SDKs>>> usually contain <<<APIs>>>, but no <<<APIs>>> contain <<<SDKs>>>.",
+   "distractors": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "SDKs",
+     "APIs",
+     "APIs",
+     "SDKs"
+    ],
+    "text": [
+     0,
+     " usually contain ",
+     0,
+     ", but no ",
+     0,
+     " contain ",
+     0,
+     "."
+    ],
+    "regexPositions": []
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4021766142",
+  "source": {
+   "name": "Describe how an API works using the correct terminology_1",
+   "showName": false,
+   "instructions": "When using web services, which two parties are interacting?",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "a3859637-bdf0-5b2e-12f1-d1fae61bf13c",
+     "correct": true,
+     "answer": "Client & Server"
+    },
+    {
+     "_id": "fc99c91d-73cc-76c4-1423-fd951f5de345",
+     "correct": false,
+     "answer": "Service & Translator"
+    },
+    {
+     "_id": "e950885b-9c82-c365-fbf8-6546ef045aa7",
+     "correct": false,
+     "answer": "Client & User"
+    },
+    {
+     "_id": "c6d43a6a-4665-2557-4f28-7aaadb5c7b39",
+     "correct": false,
+     "answer": "Client & Translator"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2652226732",
+  "source": {
+   "name": "Implement a POST request for an API in python",
+   "showName": false,
+   "instructions": "Click \"Check It!\" when you are ready to submit your response.",
+   "command": "python3 post.py",
+   "preExecuteCommand": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": true,
+    "timeout": 30
+   },
+   "showExpectedAnswer": true,
+   "arePartialPointsAllowed": false,
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "201\n{'title': 'Special Agent', 'body': 'Leroy Jethro Gibbs', 'userId': '1', 'id': 101}",
+     "showFeedback": false,
+     "feedback": ""
+    }
+   ],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Standard Code Test"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]
